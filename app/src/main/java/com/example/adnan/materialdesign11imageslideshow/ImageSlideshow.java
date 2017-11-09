@@ -72,12 +72,6 @@ public class ImageSlideshow extends AppCompatActivity {
                         viewPager.setCurrentItem(0);
                     }
 
-
-//                    SlideShowAdapter adapter = new SlideShowAdapter(getApplicationContext());
-//                    int size = adapter.getCount();
-//                    for (int i=0;i<size; i++){
-//                      viewPager.setCurrentItem(i);
-//                    }
                 }
             });
         }
